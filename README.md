@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">🎓 Third-year engineering student specializing in Data Science<br><br>🔍 Passionate about data analysis, machine learning, and artificial intelligence<br><br>💻 Skilled full-stack web developer, capable of building both front-end and back-end applications<br><br>🧠 Strong interest in developing intelligent, data-driven solutions to real-world problems<br><br>🚀 Eager to learn continuously and contribute to innovative tech and AI projects<br><br>🤝 Comfortable working both independently and in collaborative environments</p>
+<p align="left">🎓 Fourth-year engineering student specializing in Data Science<br><br>🔍 Passionate about data analysis, machine learning, and artificial intelligence<br><br>💻 Skilled full-stack web developer, capable of building both front-end and back-end applications<br><br>🧠 Strong interest in developing intelligent, data-driven solutions to real-world problems<br><br>🚀 Eager to learn continuously and contribute to innovative tech and AI projects<br><br>🤝 Comfortable working both independently and in collaborative environments</p>
 
 ###
 
